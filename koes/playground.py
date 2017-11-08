@@ -1,4 +1,9 @@
 # Databricks notebook source
+add new command
+add new line in new command
+
+# COMMAND ----------
+
 # MAGIC %fs ls dbfs:/mnt/S3_qbp/philip_thomas/customer_master/2017/10/10/21/00/
 
 # COMMAND ----------
